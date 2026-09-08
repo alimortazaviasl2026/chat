@@ -1,0 +1,53 @@
+{
+  "name": "resume",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fontsource/roboto": "^5.2.10",
+    "@mui/lab": "^9.0.0-beta.6",
+    "@mui/material": "^9.2.0",
+    "@tsparticles/react": "^4.3.1",
+    "@tsparticles/slim": "^4.3.1",
+    "bootstrap": "^5.3.8",
+    "framer-motion": "^12.42.2",
+    "i18next": "^26.3.4",
+    "leaflet": "^1.9.4",
+    "motion-plus": "^1.5.1",
+    "react": "^19.2.7",
+    "react-animated-cursor": "^2.11.2",
+    "react-bootstrap": "^2.10.10",
+    "react-clock": "^6.0.0",
+    "react-confetti": "^6.4.0",
+    "react-dom": "^19.2.7",
+    "react-fast-marquee": "^1.6.5",
+    "react-i18next": "^17.0.8",
+    "react-icons": "^5.7.0",
+    "react-leaflet": "^5.0.0",
+    "react-spinners": "^0.17.0",
+    "react-type-animation": "^3.2.0",
+    "recharts": "^3.9.2",
+    "sweet-alert": "^2.0.5",
+    "swiper": "^14.0.5",
+    "tsparticles": "^4.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "eslint": "^10.6.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.3",
+    "globals": "^17.7.0",
+    "vite": "^8.1.1"
+  }
+}
